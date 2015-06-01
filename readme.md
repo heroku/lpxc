@@ -11,7 +11,7 @@ All dependencies come from the standard library. The following version of Ruby a
 
 ## Documentation
 
-[Rdoc](http://rubydoc.info/github/ryandotsmith/lpxc/master/Lpxc)
+[Rdoc](http://rubydoc.info/github/heroku/lpxc/master/Lpxc)
 
 ## Usage
 
